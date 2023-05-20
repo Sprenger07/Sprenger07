@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sprenger07
-- 👀 I’m interested in Intelligence Artificial
-- 🌱 I’m currently working at Hrflow.ai
+- 👀 I’m interested in Artificial Intelligence 
+- 🌱 I’m studying at EPITA
 
 
 
